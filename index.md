@@ -8,26 +8,26 @@ Numerical analysis, Finite Element Methods, Finite Volume Method, Adaptive FEMs,
 
 ### Experience
 
-- C V Raman Postdoc Fellow, [Indian Institute of Science, Bangalore](http://www.math.iisc.ac.in/) (Oct, 2020 - present)
-- NBHM Postdoc Fellow, [Indian Institute of Science, Bangalore](http://www.math.iisc.ac.in/) (Aug, 2018 - Sept, 2020)
-- Postdoc Fellow, [IFP Energies nouvelles - Innovation, Energy, Environment, France](https://www.ifpenergiesnouvelles.com/) (June, 2017 - May 2018)
-- Research Associate, [Indian Institute of Technology Bombay](http://www.math.iitb.ac.in/) (Sept, 2016 - March, 2017)
+- C V Raman Postdoc Fellow, [Indian Institute of Science, Bangalore](http://www.math.iisc.ac.in/) (Oct, 2020 - present).
+- NBHM Postdoc Fellow, [Indian Institute of Science, Bangalore](http://www.math.iisc.ac.in/) (Aug, 2018 - Sept, 2020).
+- Postdoc Fellow, [IFP Energies nouvelles - Innovation, Energy, Environment, France](https://www.ifpenergiesnouvelles.com/) (June, 2017 - May 2018).
+- Research Associate, [Indian Institute of Technology Bombay](http://www.math.iitb.ac.in/) (Sept, 2016 - March, 2017).
 
 ### Education
 
-- Ph.D., Finite Element Methods, [Indian Institute of Technology Bombay](http://www.math.iitb.ac.in/)
-- M.Sc., Mathematics & Computing, [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/maths/)
-- B.Sc., Mathematics (Hons), [Ramakrishna Mission Vidyamandira, Belur Math](http://vidyamandira.ac.in/)
+- Ph.D., Finite Element Methods, [Indian Institute of Technology Bombay](http://www.math.iitb.ac.in/).
+- M.Sc., Mathematics & Computing, [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/maths/).
+- B.Sc., Mathematics (Hons), [Ramakrishna Mission Vidyamandira, Belur Math](http://vidyamandira.ac.in/).
 
 ### Academic Achievments/Awards
 
-- Selected for D. S. Kothari Postdoctoral Fellowship, University Grants Commission (UGC) (not availed), 2021
-- NBHM Post Doctoral Fellowship, pursued at IISc Bangalore, 2018
-- Prabhulal Bhatnagar Memorial Prize, for the most outstanding research in Mathematics, IIT Bombay, 2017
-- Awarded DST SERB-National Post Doctoral Fellowship (N-PDF), (not availed), 2017
-- National Board For Higher Mathematics (NBHM), fellowship for Ph.D., 2011
-- Qualified for JRF-NET, Council of Scientific & Industrial Research (CSIR), eligibility for Lectureship and fellowship for Ph.D., 2010
-- National Board For Higher Mathematics (NBHM), scholarship during M.Sc., 2010
+- Selected for D. S. Kothari Postdoctoral Fellowship, University Grants Commission (UGC) (not availed), 2021.
+- NBHM Post Doctoral Fellowship, pursued at IISc Bangalore, 2018.
+- Prabhulal Bhatnagar Memorial Prize, for the most outstanding research in Mathematics, IIT Bombay, 2017.
+- Awarded DST SERB-National Post Doctoral Fellowship (N-PDF), (not availed), 2017.
+- National Board For Higher Mathematics (NBHM), fellowship for Ph.D., 2011.
+- Qualified for JRF-NET, Council of Scientific & Industrial Research (CSIR), eligibility for Lectureship and fellowship for Ph.D., 2010.
+- National Board For Higher Mathematics (NBHM), scholarship during M.Sc., 2010.
 
 ### [Publications](https://www.researchgate.net/profile/Gouranga-Mallik)
 

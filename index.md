@@ -34,6 +34,7 @@ Numerical analysis, Finite Element Methods, Finite Volume Method, Adaptive FEMs,
 4. Carsten Carstensen, Gouranga Mallik and Neela Nataraj, *A Priori and A Posteriori Error Estimates for Discontinuous Galerkin Finite Element Methods for    Von Karman Equations*,  IMA Journal of Numerical Analysis, vol. 39, no. 1, 167--200, 2019 [[doi](https://doi.org/10.1093/imanum/dry003)]. 
 5. Gouranga Mallik}, Neela Nataraj and Jean-Pierre Raymond, *Error estimates for the numerical approximation of a  distributed optimal control problem        governed by the von Karman equations*, ESAIM: Mathematical Modelling and Numerical Analysis, vol. 52, no. 3, 1137--1172, 2018, 
    [[doi](https://doi.org/10.1051/m2an/2018023)].
-6. 
+6. Gouranga Mallik and Neela Nataraj, *A Nonconforming Finite Element Approximation for the Von Karman Equations*, ESAIM: Mathematical Modelling and          Numerical Analysis, vol. 50, no. 2, 433--454, 2016, [[doi](https://doi.org/10.1051/m2an/2015052)].
+7. 
    
 

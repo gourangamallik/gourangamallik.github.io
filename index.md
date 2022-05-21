@@ -2,7 +2,7 @@
 
 I am Dr. Gouranga Mallik, a C V Raman Postdoc Fellow at the Department of Mathematics, Indian Institute of Science Bangalore. I work on Finite Element Methods for Partial Differential Equations.
 
-[Home](https://gourangamallik.github.io/)
+[Home](https://gourangamallik.github.io/) [Publications](https://gourangamallik.github.io/HTML_files/publications/)
 
 ### Research Interests
 

@@ -20,7 +20,7 @@ Numerical analysis, Finite Element Methods, Finite Volume Method, Adaptive FEMs,
 - B.Sc., Mathematics (Hons), [Ramakrishna Mission Vidyamandira](http://vidyamandira.ac.in/)
 
 
-### Publications ([MathScinet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1133257)) 
+### [Publications](https://www.researchgate.net/profile/Gouranga-Mallik)
 
 1. Gouranga Mallik, *Goal-Oriented A Posteriori Error Estimation for the Biharmonic
    Problem Based on an Equilibrated Moment Tensor*, Computers & Mathematics with

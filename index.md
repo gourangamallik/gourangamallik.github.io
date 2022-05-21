@@ -32,21 +32,37 @@ Numerical analysis, Finite Element Methods, Finite Volume Method, Adaptive FEMs,
 ### [Publications](https://www.researchgate.net/profile/Gouranga-Mallik)
 
 1. Gouranga Mallik, *Goal-Oriented A Posteriori Error Estimation for the Biharmonic
-   Problem Based on an Equilibrated Moment Tensor*, Computers & Mathematics with
-   Applications, vol. 117, 312–325, 2022 [[doi](https://doi.org/10.1016/j.camwa.2022.04.021)].
+   Problem Based on an Equilibrated Moment Tensor*, 
+   [Computers & Mathematics with Applications](https://www.journals.elsevier.com/computers-and-mathematics-with-applications), vol. 117, 312–325, 2022 
+   [[doi](https://doi.org/10.1016/j.camwa.2022.04.021)].
+   
 2. Carsten Carstensen, Gouranga Mallik and Neela Nataraj, *Nonconforming Finite
-   Element Discretization for Semilinear Problems with Trilinear Nonlinearity*, IMA
-   Journal of Numerical Analysis, vol. 41, no. 1, 164–205, 2021, [[doi](https://doi.org/10.1093/imanum/drz071)].   
+   Element Discretization for Semilinear Problems with Trilinear Nonlinearity*, 
+   [IMA Journal of Numerical Analysis](https://academic.oup.com/imajna), vol. 41, no. 1, 164–205, 2021, 
+   [[doi](https://doi.org/10.1093/imanum/drz071)].   
+   
 3. Gouranga Mallik, Martin Vohralík and Soleiman Yousef, *Goal-oriented a posteriori
    error estimation for conforming and nonconforming approximations with inexact
-   solvers*, Journal of Computational and Applied Mathematics, vol. 366, 2020, [[doi](https://doi.org/10.1016/j.cam.2019.112367)].   
-4. Carsten Carstensen, Gouranga Mallik and Neela Nataraj, *A Priori and A Posteriori Error Estimates for Discontinuous Galerkin Finite Element Methods for    Von Karman Equations*,  IMA Journal of Numerical Analysis, vol. 39, no. 1, 167--200, 2019 [[doi](https://doi.org/10.1093/imanum/dry003)]. 
-5. Gouranga Mallik, Neela Nataraj and Jean-Pierre Raymond, *Error estimates for the numerical approximation of a  distributed optimal control problem          governed by the von Karman equations*, ESAIM: Mathematical Modelling and Numerical Analysis, vol. 52, no. 3, 1137--1172, 2018, 
+   solvers*, 
+   [Journal of Computational and Applied Mathematics](https://www.journals.elsevier.com/journal-of-computational-and-applied-mathematics), vol. 366, 2020,    [[doi](https://doi.org/10.1016/j.cam.2019.112367)].   
+   
+4. Carsten Carstensen, Gouranga Mallik and Neela Nataraj, *A Priori and A Posteriori Error Estimates for Discontinuous Galerkin Finite Element Methods for    Von Karman Equations*, [IMA Journal of Numerical Analysis](https://academic.oup.com/imajna), vol. 39, no. 1, 167--200, 2019,
+   [[doi](https://doi.org/10.1093/imanum/dry003)]. 
+   
+5. Gouranga Mallik, Neela Nataraj and Jean-Pierre Raymond, *Error estimates for the numerical approximation of a  distributed optimal control problem          governed by the von Karman equations*, 
+   [ESAIM: Mathematical Modelling and Numerical Analysis](https://www.esaim-m2an.org/), vol. 52, no. 3, 1137--1172, 2018, 
    [[doi](https://doi.org/10.1051/m2an/2018023)].
-6. Gouranga Mallik and Neela Nataraj, *A Nonconforming Finite Element Approximation for the Von Karman Equations*, ESAIM: Mathematical Modelling and          Numerical Analysis, vol. 50, no. 2, 433--454, 2016, [[doi](https://doi.org/10.1051/m2an/2015052)].
-7. Gouranga Mallik and Neela Nataraj, *Conforming Finite Element Methods for the Von Karman Equations*, Advances in Computational Mathematics, vol. 42, no.    5, 1031--1054, 2016, [[doi](https://doi.org/10.1007/s10444-016-9452-5)].
-8. Gouranga Mallik and Neela Nataraj, *Conforming and Nonconforming Finite Element Methods for Canonical Von karman Equations*, International Journal of      Advances in Engineering Sciences and Applied Mathematics, vol. 7, no. 3, 86--95, 2015, 
-   [[doi](https://doi.org/10.1007/s12572-015-0137-y)].
+   
+6. Gouranga Mallik and Neela Nataraj, *A Nonconforming Finite Element Approximation for the Von Karman Equations*, 
+   [ESAIM: Mathematical Modelling and Numerical Analysis](https://www.esaim-m2an.org/), vol. 50, no. 2, 433--454, 2016, 
+   [[doi](https://doi.org/10.1051/m2an/2015052)].
+   
+8. Gouranga Mallik and Neela Nataraj, *Conforming Finite Element Methods for the Von Karman Equations*, 
+   [Advances in Computational Mathematics](https://www.springer.com/journal/10444), vol. 42, no. 5, 1031--1054, 2016, 
+   [[doi](https://doi.org/10.1007/s10444-016-9452-5)].
+   
+10. Gouranga Mallik and Neela Nataraj, *Conforming and Nonconforming Finite Element Methods for Canonical Von karman Equations*, International Journal of       Advances in Engineering Sciences and Applied Mathematics, vol. 7, no. 3, 86--95, 2015, 
+    [[doi](https://doi.org/10.1007/s12572-015-0137-y)].
    
    
 

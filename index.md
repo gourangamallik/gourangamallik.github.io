@@ -1,8 +1,8 @@
-## Welcome to Gouranga's homepage
+## Welcome to Gouranga's homepage                            
 
 I am Dr. Gouranga Mallik, a C V Raman Postdoc Fellow at the Department of Mathematics, Indian Institute of Science Bangalore. I work on Finite Element Methods for Partial Differential Equations.
 
-[Home](
+[Home](https://gourangamallik.github.io/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

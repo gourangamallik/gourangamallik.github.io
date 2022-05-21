@@ -15,9 +15,9 @@ Numerical analysis, Finite Element Methods, Finite Volume Method, Adaptive FEMs,
 
 ### Education
 
-- Ph.D., Finite Element Methods, [Indian Institute of Technology Bombay](http://www.math.iitb.ac.in/)
-- M.Sc., Mathematics & Computing, [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/maths/)
-- B.Sc., Mathematics (Hons), [Ramakrishna Mission Vidyamandira, Belur Math](http://vidyamandira.ac.in/)
+- Ph.D., Finite Element Methods, [Indian Institute of Technology Bombay](http://www.math.iitb.ac.in/), 2017.
+- M.Sc., Mathematics & Computing, [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/maths/), 2011.
+- B.Sc., Mathematics (Hons), [Ramakrishna Mission Vidyamandira, Belur Math](http://vidyamandira.ac.in/), 2009.
 
 ### Academic Achievments/Awards
 

@@ -11,7 +11,7 @@ Numerical analysis, Finite Element Methods, Finite Volume Method, Adaptive FEMs,
 - C V Raman Postdoc Fellow, [Indian Institute of Science, Bangalore](http://www.math.iisc.ac.in/) (Oct, 2020 - present)
 - NBHM Postdoc Fellow, [Indian Institute of Science, Bangalore](http://www.math.iisc.ac.in/) (Aug, 2018 - Sept, 2020)
 - Postdoc Fellow, [IFP Energies nouvelles - Innovation, Energy, Environment, France](https://www.ifpenergiesnouvelles.com/) (June, 2017 - May 2018)
-- Research Associate, [IIT Bombay](http://www.math.iitb.ac.in/) (Sept, 2016 - March, 2017)
+- Research Associate, [Indian Institute of Technology Bombay](http://www.math.iitb.ac.in/) (Sept, 2016 - March, 2017)
 
 ### Education
 

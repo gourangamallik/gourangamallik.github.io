@@ -8,16 +8,16 @@ Numerical analysis, Finite Element Methods, Finite Volume Method, Adaptive FEMs,
 
 ### Experience
 
-- C V Raman Postdoc Fellow, [Indian Institute of Science, Bangalore](http://www.math.iisc.ac.in/) (Oct, 2020 - present).
-- NBHM Postdoc Fellow, [Indian Institute of Science, Bangalore](http://www.math.iisc.ac.in/) (Aug, 2018 - Sept, 2020).
-- Postdoc Fellow, [IFP Energies nouvelles - Innovation, Energy, Environment, France](https://www.ifpenergiesnouvelles.com/) (June, 2017 - May 2018).
-- Research Associate, [Indian Institute of Technology Bombay](http://www.math.iitb.ac.in/) (Sept, 2016 - March, 2017).
+- C V Raman Postdoc Fellow, [Indian Institute of Science, Bangalore](http://www.math.iisc.ac.in/) (Oct, 2020 - present)
+- NBHM Postdoc Fellow, [Indian Institute of Science, Bangalore](http://www.math.iisc.ac.in/) (Aug, 2018 - Sept, 2020)
+- Postdoc Fellow, [IFP Energies nouvelles - Innovation, Energy, Environment, France](https://www.ifpenergiesnouvelles.com/) (June, 2017 - May 2018)
+- Research Associate, [Indian Institute of Technology Bombay](http://www.math.iitb.ac.in/) (Sept, 2016 - March, 2017)
 
 ### Education
 
-- Ph.D., Finite Element Methods, [Indian Institute of Technology Bombay](http://www.math.iitb.ac.in/).
-- M.Sc., Mathematics & Computing, [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/maths/).
-- B.Sc., Mathematics (Hons), [Ramakrishna Mission Vidyamandira, Belur Math](http://vidyamandira.ac.in/).
+- Ph.D., Finite Element Methods, [Indian Institute of Technology Bombay](http://www.math.iitb.ac.in/)
+- M.Sc., Mathematics & Computing, [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/maths/)
+- B.Sc., Mathematics (Hons), [Ramakrishna Mission Vidyamandira, Belur Math](http://vidyamandira.ac.in/)
 
 ### Academic Achievments/Awards
 

@@ -31,6 +31,9 @@ Numerical analysis, Finite Element Methods, Finite Volume Method, Adaptive FEMs,
 3. Gouranga Mallik, Martin Vohralík and Soleiman Yousef, *Goal-oriented a posteriori
    error estimation for conforming and nonconforming approximations with inexact
    solvers*, Journal of Computational and Applied Mathematics, vol. 366, 2020, [[doi](https://doi.org/10.1016/j.cam.2019.112367)].   
-4. Carsten Carstensen, Gouranga Mallik and Neela Nataraj, *A Priori and A Posteriori Error Estimates for Discontinuous Galerkin Finite Element Methods for    Von K\'{a}rm\'{a}n Equations*,  IMA Journal of Numerical Analysis, vol. 39, no. 1, 167--200, 2019 [[doi](https://doi.org/10.1093/imanum/dry003)].   
+4. Carsten Carstensen, Gouranga Mallik and Neela Nataraj, *A Priori and A Posteriori Error Estimates for Discontinuous Galerkin Finite Element Methods for    Von Karman Equations*,  IMA Journal of Numerical Analysis, vol. 39, no. 1, 167--200, 2019 [[doi](https://doi.org/10.1093/imanum/dry003)]. 
+5. Gouranga Mallik}, Neela Nataraj and Jean-Pierre Raymond, *Error estimates for the numerical approximation of a  distributed optimal control problem        governed by the von Karman equations*, ESAIM: Mathematical Modelling and Numerical Analysis, vol. 52, no. 3, 1137--1172, 2018, 
+   [[doi](https://doi.org/10.1051/m2an/2018023)].
+6. 
    
 

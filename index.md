@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Gouranga's homepage
 
-You can use the [editor on GitHub](https://github.com/gourangamallik/gourangamallik.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am Dr. Gouranga Mallik, a C V Raman Postdoc Fellow at the Department of Mathematics, Indian Institute of Science Bangalore. I work on Finite Element Methods for Partial Differential Equations.
+
+[Home](
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

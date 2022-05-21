@@ -17,7 +17,7 @@ Numerical analysis, Finite Element Methods, Finite Volume Method, Adaptive FEMs,
 
 - Ph.D., Finite Element Methods, [Indian Institute of Technology Bombay](http://www.math.iitb.ac.in/)
 - M.Sc., Mathematics & Computing, [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/maths/)
-- B.Sc., Mathematics (Hons), [Ramakrishna Mission Vidyamandira](http://vidyamandira.ac.in/)
+- B.Sc., Mathematics (Hons), [Ramakrishna Mission Vidyamandira, Belur Math](http://vidyamandira.ac.in/)
 
 
 ### [Publications](https://www.researchgate.net/profile/Gouranga-Mallik)

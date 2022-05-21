@@ -27,9 +27,9 @@ Numerical analysis, Finite Element Methods, Finite Volume Method, Adaptive FEMs,
    Applications, vol. 117, 312–325, 2022 [doi](https://doi.org/10.1016/j.camwa.2022.04.021).
 2. Carsten Carstensen, Gouranga Mallik and Neela Nataraj, *Nonconforming Finite
    Element Discretization for Semilinear Problems with Trilinear Nonlinearity*, IMA
-   Journal of Numerical Analysis, vol. 41, no. 1, 164–205, 2021, [doi].   
+   Journal of Numerical Analysis, vol. 41, no. 1, 164–205, 2021, [doi](https://doi.org/10.1093/imanum/drz071).   
 3. Gouranga Mallik, Martin Vohralík and Soleiman Yousef, *Goal-oriented a posteriori
    error estimation for conforming and nonconforming approximations with inexact
-   solvers*, Journal of Computational and Applied Mathematics, vol. 366, 2020, [doi](https://doi.org/10.1016/j.cam.2019.112367).   
+   solvers*, Journal of Computational and Applied Mathematics, vol. 366, 2020, [[doi](https://doi.org/10.1016/j.cam.2019.112367)].   
    
 

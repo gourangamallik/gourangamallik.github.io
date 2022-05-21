@@ -2,8 +2,6 @@
 
 I am Dr. Gouranga Mallik, a C V Raman Postdoc Fellow at the Department of Mathematics, Indian Institute of Science Bangalore. I work on Finite Element Methods for Partial Differential Equations.
 
-[Home](https://gourangamallik.github.io/) [Publications](https://gourangamallik.github.io/HTML_files/publications.html/)
-
 ### Research Interests
 
 Numerical analysis, Finite Element Methods, Finite Volume Method, Adaptive FEMs, A priori and posteriori error estimation,  Optimal control
@@ -22,13 +20,16 @@ Numerical analysis, Finite Element Methods, Finite Volume Method, Adaptive FEMs,
 - B.Sc., Mathematics (Hons), [Ramakrishna Mission Vidyamandira](http://vidyamandira.ac.in/)
 
 
-### Publications
+### Publications ([MathScinet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1133257)) 
 
 1. Gouranga Mallik, *Goal-Oriented A Posteriori Error Estimation for the Biharmonic
    Problem Based on an Equilibrated Moment Tensor*, Computers & Mathematics with
-   Applications, vol. 117, 312–325, 2022.
+   Applications, vol. 117, 312–325, 2022 [doi](https://doi.org/10.1016/j.camwa.2022.04.021).
 2. Carsten Carstensen, Gouranga Mallik and Neela Nataraj, *Nonconforming Finite
    Element Discretization for Semilinear Problems with Trilinear Nonlinearity*, IMA
-   Journal of Numerical Analysis, vol. 41, no. 1, 164–205, 2021.   
+   Journal of Numerical Analysis, vol. 41, no. 1, 164–205, 2021, [doi].   
+3. Gouranga Mallik, Martin Vohralík and Soleiman Yousef, *Goal-oriented a posteriori
+   error estimation for conforming and nonconforming approximations with inexact
+   solvers*, Journal of Computational and Applied Mathematics, vol. 366, 2020, [doi](https://doi.org/10.1016/j.cam.2019.112367).   
    
 

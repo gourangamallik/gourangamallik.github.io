@@ -31,6 +31,10 @@ Numerical analysis, Finite Element Methods, Finite Volume Method, Adaptive FEMs,
 
 ### [Publications](https://www.researchgate.net/profile/Gouranga-Mallik)
 
+- Thirupathi Gudi, Gouranga Mallik and Tamal Pramanick, *A Hybrid-High Order Method for Quasilinear Elliptic Problems of Nonmonotone Type*, 
+  paper accepted in [SIAM Journal on Numerical Analysis], 2022, 
+  [[arXiv preprint](https://arxiv.org/pdf/2110.15579.pdf)].
+
 - Gouranga Mallik, *Goal-Oriented A Posteriori Error Estimation for the Biharmonic Problem Based on an Equilibrated Moment Tensor*, 
   [Computers & Mathematics with Applications](https://www.journals.elsevier.com/computers-and-mathematics-with-applications), vol. 117, 312–325, 2022 
   [[doi](https://doi.org/10.1016/j.camwa.2022.04.021)].
